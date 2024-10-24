@@ -20,3 +20,7 @@
 This project was inspired by a tutorial on YouTube by Roboflow. I have made several modifications and enhancements to the original approach to better suit the specific requirements of this project.
 
 https://www.youtube.com/watch?v=aBVGKoNZQUw
+
+![Screenshot (725)](https://github.com/user-attachments/assets/2caae207-f999-4221-9695-df15ddccdb4a)
+![Screenshot (724)](https://github.com/user-attachments/assets/362e2565-da4b-49c9-8a01-aed6d86485bc)
+![Screenshot (723)](https://github.com/user-attachments/assets/e09b358a-3cec-43f6-8f8e-d44d77dc99e7)
