@@ -1,32 +1,5 @@
 
-AI Football - Football Players Detection and Analysis
-Project Overview
-AI Football is a computer vision-based project that aims to analyze football players' movements and positions using deep learning models. The project provides real-time detection, heatmap visualization, and analytical insights about player performance on the field.
 
-Key Features:
-Player Detection: Uses advanced object detection models (YOLOv8) to identify players on the football pitch.
-Heatmap Generation: Visualizes player movements by creating heatmaps that show their activity over time.
-Field Layout Detection: Automatically recognizes the football field layout to align with player positions.
-Voronoi Diagram Creation: Divides the field into regions of control based on players' positions, offering insights into team dominance.
-Models Used:
-YOLOv8 for real-time object detection
-Custom models for heatmap and Voronoi diagram generation
-Outputs
-Player Detection:
-
-Provides frame-by-frame detection of players.
-Heatmap Visualization:
-
-Displays the heatmap of player movement, showcasing areas of high activity.
-Voronoi Diagram:
-
-Illustrates regions of control for each player, helping to analyze team tactics.
-Future Work
-Integrating player performance metrics based on movement analysis.
-Improving model accuracy for player recognition in low-resolution videos.
-Markdown Version:
-markdown
-نسخ الكود
 # AI Football - Football Players Detection and Analysis
 
 ## Project Overview
